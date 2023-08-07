@@ -1,0 +1,23 @@
+{
+   "NetSuite HR Update": "NetSuite HR Update",
+   "employee": "employee",
+   "index": "index",
+   "netsuite_id": "netsuite_id",
+   "data": "data",
+   "entity_id": "entity_id",
+   "entity": "entity",
+   "Name": "Name",
+   "User": "User",
+   "Update Date": "Update Date",
+   "entity and employee": "entity and employee",
+   "Entity": "Entity",
+   "Updated Submission": "Updated Submission",
+   "Start": "Start",
+   "Approve Changes": "Approve Changes",
+   "End": "End",
+   "New Submission": "New Submission",
+   "Home": "Home",
+   "Home.text.Netsuite HR Data Update": "Netsuite HR Data Update",
+   "Home.text.For pending approvals check the inbox (in the top right).": "For pending approvals check the inbox (in the top right).",
+   "Home.text.My Entities": "My Entities"
+}

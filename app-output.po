@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: app-output.json conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-09 14:56+0700\n"
+"PO-Revision-Date: 2023-05-09 14:56+0700\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Api-Version: 1.0.28 20230504-1"
+
+msgid "NetSuite HR Update"
+msgstr "NetSuite HR Update"
+
+msgid "employee"
+msgstr "employee"
+
+msgid "index"
+msgstr "index"
+
+msgid "netsuite_id"
+msgstr "netsuite_id"
+
+msgid "data"
+msgstr "data"
+
+msgid "entity_id"
+msgstr "entity_id"
+
+msgid "entity"
+msgstr "entity"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "User"
+msgstr "User"
+
+msgid "Update Date"
+msgstr "Update Date"
+
+msgid "entity and employee"
+msgstr "entity and employee"
+
+msgid "Entity"
+msgstr "Entity"
+
+msgid "Updated Submission"
+msgstr "Updated Submission"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Approve Changes"
+msgstr "Approve Changes"
+
+msgid "End"
+msgstr "End"
+
+msgid "New Submission"
+msgstr "New Submission"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Home.text.Netsuite HR Data Update"
+msgstr "Netsuite HR Data Update"
+
+msgid "Home.text.For pending approvals check the inbox (in the top right)."
+msgstr "For pending approvals check the inbox (in the top right)."
+
+msgid "Home.text.My Entities"
+msgstr "My Entities"
